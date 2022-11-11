@@ -1,10 +1,3 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# MongoDb Commerce:
+
+O repositório a seguir, faz parte do processo de introdução ao banco de dados NoSQL MongoDB, aqui você poderá encontrar algumas querys que foram criadas no intuito de exercitar o conhecimento com essa nova ferramenta, que faz parte da vida diária de nós programadores.
